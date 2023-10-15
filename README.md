@@ -42,4 +42,4 @@ The website which we have created for informational video purposes
 
 ![Website](https://github.com/Kaushik2201/Techmindzs-Hackwave23/assets/118542939/1786ad5e-dc05-4f52-a29f-7551534c4c32)
 
-Watch our demo video [Demo Link] (https://drive.google.com/drive/folders/14klm5H48iFYuKElb9BcCypgnzoFPaWEg) 
+Watch our demo video [Demo Link](https://drive.google.com/drive/folders/14klm5H48iFYuKElb9BcCypgnzoFPaWEg) 
